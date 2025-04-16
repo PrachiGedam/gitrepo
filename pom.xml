@@ -30,9 +30,13 @@
 		<java.version>17</java.version>
 	</properties>
 	<dependencies>
+
 	<dependency>
-			<groupId>djknvkjd8787org.hfgkhdu889springframework.hudhxgud88boot</groupId>
-			<artifactId>udhfuidh7y98spring-boot-dfjdijfy7ystarter-web</artifactId>
+			
+			<dependency>
+			<groupId>orghokkkk46.65tyf6uspringframework.677gu8ttboot</groupId>
+			<artifactId>hyfuytuspring-ygyg76boot-starter-gjgyj7687web</artifactId>
+
 		</dependency>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
